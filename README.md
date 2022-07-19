@@ -1,2 +1,2 @@
-# cyber-clock
+# cyber-clock (matrix clock)
 simple clock from only one led strip - WS and ESP32
